@@ -1,0 +1,6 @@
+local Games = {
+  [3623096087] = "https://luna-hub-muscle-legend-protect.vercel.app/api/protected_and_relay",
+    [3101667897] = "https://luna-hub-legend-of-speed-protect.vercel.app/api/protected_and_relay", 
+}
+
+return Games
